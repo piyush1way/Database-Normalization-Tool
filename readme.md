@@ -89,14 +89,15 @@ The repository includes a sample.csv file that demonstrates the expected format 
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](dnt1.png)
+![Home Page](dnt2.png)
 
 ### Another Screenshot
-![Functional Dependency Page](dnt2.png)
+![Functional Dependency Page](dnt1.png)
 
 
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests if you have suggestions for improvements or bug fixes.
+
 
