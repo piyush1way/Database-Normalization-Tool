@@ -1,0 +1,7 @@
+RollNo,Name,Subject,Marks,Teacher,DeptID,DeptName
+101,Raj,Math,85,Mr. Sharma,D1,Mathematics
+101,Raj,Physics,78,Mr. Verma,D1,Mathematics
+102,Simran,Math,92,Mr. Sharma,D1,Mathematics
+102,Simran,Physics,88,Mr. Verma,D1,Mathematics
+103,Amit,Chemistry,75,Ms. Nair,D2,Chemistry
+103,Amit,Biology,80,Dr. Rao,D2,Chemistry
