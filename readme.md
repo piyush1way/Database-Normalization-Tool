@@ -86,6 +86,17 @@ streamlit run normalization.py
 
 The repository includes a sample.csv file that demonstrates the expected format for input data. You can use this as a template for your own datasets.
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](dnt1.png)
+
+### Another Screenshot
+![Functional Dependency Page](dnt2.png)
+
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests if you have suggestions for improvements or bug fixes.
+
